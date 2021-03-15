@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Management System
 
 본 프로젝트는 React로 만들어진 고객 관리 시스템
@@ -71,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React-Management-System
+리액트로 고객관리 시스템 만들기
+>>>>>>> 3ee38b76dc7085ce5ec79a927e307f0eaecc8e14
